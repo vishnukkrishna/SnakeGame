@@ -8,7 +8,7 @@ Run the following in the terminal to install the Pygame.
 
 ```pip install pygame```
 
-Download the source code from the repository (snakegame.py) file and the image and music directory.
+Download the source code from the repository (main.py) file and the image and music directory.
 
 Run the code
 
